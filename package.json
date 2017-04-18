@@ -1,0 +1,26 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "testing application in centos",
+  "main": "myandyours.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YMArjunBabu/nodeSample.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YMArjunBabu/nodeSample/issues"
+  },
+  "homepage": "https://github.com/YMArjunBabu/nodeSample#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "cors": "^2.8.3",
+    "express": "^4.15.2",
+    "jwt-simple": "^0.5.1",
+    "moment": "^2.18.1"
+  }
+}
